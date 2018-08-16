@@ -1,0 +1,5 @@
+Austin J	keyboard	80	1
+Austin J	mouse	45	1
+Austin J	headphones	150	1
+Taylor J	collar	35	1
+Taylor J	goggles	20	2

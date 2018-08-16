@@ -1,0 +1,7 @@
+Austin J	bike bags	80	2
+Austin J	solar charger	100	1
+Austin J	bike trailer	750	1
+Austin J	candy bar	2	5
+Taylor J	bone	8	3
+Taylor J	ball	3	2
+Taylor J	dog bed	45	1
